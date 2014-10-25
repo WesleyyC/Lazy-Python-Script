@@ -1,4 +1,4 @@
 LittlePythonScript
 ==================
 
-This is some python script I wrote for personal use.
+This is some python scripts I wrote for personal use.
