@@ -1,7 +1,7 @@
-Lazy-Python-Script
+Lazy-Script
 ==================
 
-These are some python scripts I wrote for personal use. Put it for the sake of convenience.
+Some python scripts I wrote when I feel lazy... In the end of the day, Computer Scienctist don't do things themselves.
 
 **- getFileWeb.py:** Use wget download all the file, with a specific type, from the base url that is given.
 
